@@ -1,2 +1,2 @@
-# JUCEinjection
-A simple dependency injection module for JUCE
+# MachineName
+A simple module for JUCE for getting a unique machine name
